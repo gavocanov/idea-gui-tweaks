@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>org.cth.idea-gui-tweaks</id>
+    <name>cTh IDEA GUI tweaks</name>
+    <vendor email="gavocanov@gmail.com" url="http://github.com/gavocanov">cTh</vendor>
+
+    <description><![CDATA[
+    My tweaks for some IDEA elements.
+    ]]></description>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <application-components>
+        <component>
+            <implementation-class>org.cth.idea.TabsPainter</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>
