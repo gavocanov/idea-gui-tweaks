@@ -4,7 +4,7 @@
     <vendor email="gavocanov@gmail.com" url="http://github.com/gavocanov">cTh</vendor>
 
     <description><![CDATA[
-    My tweaks for some IDEA elements.
+    My tweaks for some IDEA elements, for now just tab colors match current editor color theme.
     ]]></description>
 
     <extensions defaultExtensionNs="com.intellij">
